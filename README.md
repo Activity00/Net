@@ -1,3 +1,1 @@
-#basic
-基础
-#project 实战
+python net practice
